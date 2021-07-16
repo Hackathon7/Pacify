@@ -827,7 +827,7 @@ a:focus {
 }
 
 .blog .blog-item {
-    /* position: relative; */
+     position: relative; 
     margin: 0 15px;
     background-color: #fff;
 }
